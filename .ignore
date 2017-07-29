@@ -1,0 +1,3 @@
+#Exclude .idea directory from intellij project
+ .idea/
+ *.pyc
